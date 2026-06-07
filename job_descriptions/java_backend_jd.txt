@@ -1,0 +1,25 @@
+Senior Java Backend Engineer
+
+We are seeking a Senior Java Backend Engineer to join our growing engineering team.
+
+Requirements:
+- 5+ years of professional Java development experience
+- Strong expertise in Spring Boot framework
+- Experience with RESTful API design and development
+- Proficiency in SQL and database design (PostgreSQL, MySQL)
+- Knowledge of microservices architecture
+- Experience with Docker and containerization
+- Understanding of CI/CD pipelines
+- Strong problem-solving skills and ability to write clean, maintainable code
+- Familiarity with cloud platforms (AWS, GCP, or Azure)
+- Experience with unit testing frameworks (JUnit, Mockito)
+
+Responsibilities:
+- Design and implement scalable backend services
+- Collaborate with frontend and mobile teams
+- Write comprehensive unit and integration tests
+- Participate in code reviews and technical discussions
+- Mentor junior developers
+
+Education:
+- Bachelor's degree in Computer Science or related field preferred

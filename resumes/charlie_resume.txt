@@ -1,0 +1,22 @@
+Charlie Brown
+Principal Java Engineer
+
+Professional Experience:
+- 10+ years of Java development experience
+- Lead architect for Spring Boot microservices
+- Extensive experience with AWS, Docker, Kubernetes
+- Built large-scale distributed systems
+- Expert in PostgreSQL, Redis, Kafka
+- Strong CI/CD and testing practices
+
+Skills:
+- Java, Spring Boot, Spring Cloud, Spring Security
+- AWS, Docker, Kubernetes, Terraform
+- PostgreSQL, Redis, Kafka, Cassandra
+- JUnit, TestNG, Mockito, Cucumber
+- Maven, Gradle, Jenkins, GitLab CI
+
+Education:
+- MS Computer Science, MIT
+
+Available for immediate start.

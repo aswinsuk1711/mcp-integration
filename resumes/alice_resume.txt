@@ -1,0 +1,23 @@
+Alice Johnson
+Senior Software Engineer
+
+Professional Experience:
+- 7 years of Java development experience
+- Expert in Spring Boot, Hibernate, and REST APIs
+- Proficient in PostgreSQL and MySQL databases
+- Built microservices architecture using Docker containers
+- Experience with AWS and CI/CD pipelines
+- Extensive experience with JUnit and Mockito testing
+
+Skills:
+- Java, Spring Boot, Spring MVC, Spring Security
+- REST API design, GraphQL
+- PostgreSQL, MySQL, Redis
+- Docker, Kubernetes, AWS EC2, S3
+- Jenkins, GitLab CI/CD
+- JUnit 5, Mockito, Testcontainers
+
+Education:
+- Bachelor's in Computer Science, Stanford University
+
+References available upon request.

@@ -1,0 +1,20 @@
+Bob Smith
+Backend Developer
+
+Professional Experience:
+- 3 years of Python and JavaScript development
+- Experience with Flask and Express.js frameworks
+- Basic SQL knowledge with SQLite
+- Familiar with REST API concepts
+- Some experience with Docker
+
+Skills:
+- Python, Flask, JavaScript, Node.js
+- SQLite, MongoDB
+- Git, basic CI/CD understanding
+- PyTest, basic testing
+
+Education:
+- Self-taught programmer, coding bootcamp graduate
+
+Looking to transition into Java backend development.
